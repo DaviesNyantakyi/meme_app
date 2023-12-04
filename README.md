@@ -3,5 +3,5 @@
 A new Flutter project.
 
 MEME APP 
-![Alt text](assets/memeApp.gif "MEME APP")(width=500)
+![Alt text](assets/memeApp.gif "MEME APP")
 
